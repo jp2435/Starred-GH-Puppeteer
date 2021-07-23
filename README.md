@@ -19,7 +19,6 @@ Os pré-requistos para executar este projeto na tua máquina é ter instalado o 
 #### Como baixar
 
 ```bash
-    #Sistema Operacional Windows
     #Para clonar o repositório
     $ git clone https://github.com/jp2435/Starred-GH-Puppeteer
 
