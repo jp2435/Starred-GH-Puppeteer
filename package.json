@@ -1,0 +1,20 @@
+{
+  "name": "starred-gh-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jp2435/Starred-GH-Puppeteer"
+  },
+  "author": "jp2435",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
